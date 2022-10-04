@@ -1,0 +1,15 @@
+E:\GB\c#\dz5\dz_34\bin\Debug\net6.0\dz_34.exe
+E:\GB\c#\dz5\dz_34\bin\Debug\net6.0\dz_34.deps.json
+E:\GB\c#\dz5\dz_34\bin\Debug\net6.0\dz_34.runtimeconfig.json
+E:\GB\c#\dz5\dz_34\bin\Debug\net6.0\dz_34.dll
+E:\GB\c#\dz5\dz_34\bin\Debug\net6.0\dz_34.pdb
+E:\GB\c#\dz5\dz_34\obj\Debug\net6.0\dz_34.csproj.AssemblyReference.cache
+E:\GB\c#\dz5\dz_34\obj\Debug\net6.0\dz_34.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\c#\dz5\dz_34\obj\Debug\net6.0\dz_34.AssemblyInfoInputs.cache
+E:\GB\c#\dz5\dz_34\obj\Debug\net6.0\dz_34.AssemblyInfo.cs
+E:\GB\c#\dz5\dz_34\obj\Debug\net6.0\dz_34.csproj.CoreCompileInputs.cache
+E:\GB\c#\dz5\dz_34\obj\Debug\net6.0\dz_34.dll
+E:\GB\c#\dz5\dz_34\obj\Debug\net6.0\refint\dz_34.dll
+E:\GB\c#\dz5\dz_34\obj\Debug\net6.0\dz_34.pdb
+E:\GB\c#\dz5\dz_34\obj\Debug\net6.0\dz_34.genruntimeconfig.cache
+E:\GB\c#\dz5\dz_34\obj\Debug\net6.0\ref\dz_34.dll
